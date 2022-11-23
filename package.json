@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sa02045/resume#readme",
   "dependencies": {
+    "normalize.css": "^8.0.1",
     "parcel": "^2.8.0"
   }
 }
